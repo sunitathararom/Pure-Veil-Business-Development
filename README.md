@@ -1,96 +1,89 @@
-# 🍃 Pure Veil: Innovative Underarm Skincare Business Development 
+# 🍃 Pure Veil: Innovative Underarm Skincare Business Development
+
 **Target Industry:** Health, Wellness, and Skincare Innovation  
 
 ---
 
 ## 📌 Project Overview
-Pure Veil is a comprehensive business development and product innovation project focused on creating an aluminum-free, skin-soothing underarm care solution. Designed for the Southeast Asian climate, the product integrates natural extracts (such as Wild Indigo and Aloe Vera) with an innovative medical-grade ceramic applicator to ensure optimal hygiene and user experience. 
+Pure Veil is an innovative underarm skincare solution designed for the tropical climate of Southeast Asia. Driven by the need for hygiene and skin health, Pure Veil integrates natural extracts—specifically **Indigofera (Wild Indigo)** and **Aloe Vera**—with a medical-grade **ceramic applicator**.
 
-This repository showcases the end-to-end strategic business planning, from initial market feasibility studies to financial modeling.
+Our project moves beyond traditional deodorants by adopting a "Holistic Underarm Care" concept, ensuring effective odor control, anti-bacterial protection (via Silver Citrate), and skin rejuvenation (via Niacinamide and Allantoin), all while maintaining a hygienic, mess-free application experience.
 
 ## 🚀 Key Highlights & Business Impact
-* **Market Validation:** Conducted quantitative consumer surveys to validate demand, identifying key pain points such as aluminum-induced clothing stains and skin irritation.
-* **Strategic Positioning:** Successfully positioned the brand within the highly competitive "Natural & Innovative" niche.
-* **Financial Viability:** Developed a robust value-based pricing strategy and optimized manufacturing costs, projecting a **74.8% gross margin** to ensure long-term sustainability.
-* **Data-Driven Strategy:** Leveraged data analytics and business frameworks to transform raw consumer insights into actionable product development strategies.
+* **Holistic Approach:** Combines odor control, anti-bacterial science, and skin nourishing ingredients.
+* **Hygienic Innovation:** Features a medical-grade ceramic applicator to prevent bacterial accumulation common in plastic roll-ons.
+* **Data-Driven Strategy:** Validated through consumer surveys, identifying critical pain points like aluminum-induced clothing stains and skin sensitivity.
+* **Financial Viability:** Optimized production costs with a projected **74.8% gross margin**, demonstrating high profitability and scalability.
 
 ---
 
 ## 📂 Repository Structure
 
 ### `📁 01_Market_Research`
-Contains consumer survey datasets and data visualization dashboards that highlight target audience behavior, pain points, and product expectations.
+Focuses on consumer behavior analysis. We identified that 73.2% of users are concerned about skin irritation from chemical deodorants, and 76.9% prefer TikTok for product discovery.
 
-#### 📊 Key Market Insights
-**1. Identifying the Core Pain Points**  
-Body odor and underarm darkness are the top consumer concerns, validating the need for a highly effective, skin-soothing formula.  
-![Customer Pain Points](01_Market_Research/pain_points_chart.png)
+* **Key Pain Points:** Odor, skin darkness, and clothing stains.
+  ![Customer Pain Points](01_Market_Research/pain_points_chart.png)
 
-**2. Validating the Innovation (Ceramic Applicator)**  
-Our Unique Selling Proposition (USP)—the medical-grade ceramic applicator—received an overwhelmingly positive response (3.98/5), confirming high market interest.  
-![Ceramic Applicator Rating](01_Market_Research/ceramic_rating_chart.png)
-
-**3. Go-To-Market Strategy (Marketing Channels)**  
-Data indicates that 76.9% of our target audience prefers viewing product reviews on TikTok, influencing our video-first marketing strategy.  
-![Marketing Channel](01_Market_Research/tiktok_marketing_chart.png)
+* **Innovation Validation:** The ceramic applicator concept scored 3.98/5 in consumer interest.
+  ![Ceramic Applicator Rating](01_Market_Research/ceramic_rating_chart.png)
 
 ---
 
 ### `📁 02_Strategic_Business_Modeling`
-Includes core business frameworks used to structure the project strategy:
+Structured business frameworks to ensure a sustainable entry into the skincare market.
 
-* **Lean Canvas:** Highlighting the problem, target audience, solution, and unfair advantage.  
-  ![Lean Canvas](02_Strategic_Business_Modeling/lean_canvas.png)
+* **Lean Canvas:** Strategic blueprint focusing on problem-solution fit and unfair advantage.
+  ![Lean Canvas](02_Strategic_Business_Modeling/Lean%20Canvas.jpg)
 
-* **Business Model Canvas (BMC):** Mapping out the 9 building blocks of the business model.  
-  ![Business Model Canvas](02_Strategic_Business_Modeling/bmc.png)
+* **Business Model Canvas (BMC):** Mapping our key partners, activities, and value streams.
+  ![Business Model Canvas](02_Strategic_Business_Modeling/BMC.jpg)
 
-* **Value Proposition Design:** Aligning product features (such as the medical-grade ceramic applicator and natural extracts) with consumer needs and pain points.  
-  ![Value Proposition Design](02_Strategic_Business_Modeling/value_proposition_design.png)
+* **Value Proposition Design:** Aligning our ceramic technology and natural extracts with consumer skincare desires.
+  ![Value Proposition Design](02_Strategic_Business_Modeling/Value%20Propositions.jpg)
 
 ---
 
 ### `📁 03_Competitive_Analysis`
-A strategic analysis of the skincare market, identifying key opportunities and positioning Pure Veil for success.
+Analyzing market positioning and competitive gaps.
 
-* **Positioning Map:** Visualizing Pure Veil's unique position in the "Natural & Innovative" segment compared to clinical and conventional brands.  
-  ![Competitive Positioning](03_Competitive_Analysis/positioning_map.png)
+* **Positioning Map:** Pure Veil is positioned in the **"Natural & Innovative"** quadrant, distinguishing us from both synthetic-heavy mass brands and conventional natural brands.
+  ![Competitive Positioning](03_Competitive_Analysis/Positioning%20Map.png)
 
-* **Competitor Matrix:** A detailed comparison table highlighting our distinct advantages in ingredient quality and application technology.  
-  ![Competitor Analysis](03_Competitive_Analysis/competitor_matrix.png)
+* **Competitor Matrix:** Direct comparison highlighting our competitive edge in ingredient transparency and application technology.
+  ![Competitor Analysis](03_Competitive_Analysis/Competitor%20Matrix.png)
 
 ---
 
 ### `📁 04_Financial_Planning`
-A detailed financial roadmap demonstrating the project's profitability and sustainability.
+A detailed roadmap to profitability.
 
-* **Financial Model:** A robust breakdown of Cost of Goods Sold (COGS), packaging, marketing budget, and pricing strategy.  
+* **Financial Summary:** Pricing at 290 THB/unit with a 74.8% gross margin, targeting an annual revenue of 4.35 million THB in Year 1.
   ![Financial Summary](04_Financial_Planning/financial_summary.png)
 
 ---
 
 ### `📁 05_Visual_Assets`
-Visual branding and product design elements representing the Pure Veil brand identity.
+Branding elements reflecting our concept of "Pure" (purity) and "Veil" (gentle protection).
 
-* **Brand Logo:**  
+* **Brand Identity:** Logo design and mockup visuals.
   ![Brand Logo](05_Visual_Assets/logo.png)
-
-* **Product Design & Mockup:**  
-  ![Product Mockup](05_Visual_Assets/product_mockup.png)
+  ![Product Mockup](05_Visual_Assets/model.jpg)
 
 ---
 
 ## 🎨 Product Visuals
-Here is a look at the product design, highlighting the hygienic tube and the medical-grade ceramic applicator:
+Product design highlighting the hygienic tube and ceramic applicator.
 
 ![Pure Veil Product Mockup](05_Visual_Assets/product.png)
 
 ---
 
 ## 🛠️ Tools & Methodologies Used
-* **Business Strategy:** Lean Canvas, Business Model Canvas, Competitor Analysis
-* **Data Collection:** Google Forms
-* **Presentation & Documentation:** Canva, Microsoft Word
+* **Business Strategy:** Lean Canvas, Business Model Canvas, SWOT Analysis, Positioning Mapping
+* **Data Collection & Analysis:** Google Forms (Consumer Insights)
+* **Design & Presentation:** Canva (Brand Identity & Visuals)
+* **Documentation:** Microsoft Word (End-to-end Project Reporting)
 
 ---
 *Let's connect and discuss how data-driven business development can drive innovation in the skincare industry!*
