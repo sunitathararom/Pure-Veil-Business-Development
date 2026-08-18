@@ -1,5 +1,6 @@
 # 🍃 Pure Veil: Innovative Underarm Skincare Business Development
 
+**Author:** Sunita Thararom  
 **Target Industry:** Health, Wellness, and Skincare Innovation  
 
 ---
@@ -22,60 +23,65 @@ Our project moves beyond traditional deodorants by adopting a "Holistic Underarm
 ### `📁 01_Market_Research`
 Focuses on consumer behavior analysis. We identified that 73.2% of users are concerned about skin irritation from chemical deodorants, and 76.9% prefer TikTok for product discovery.
 
-* **Key Pain Points:** Odor, skin darkness, and clothing stains.
-  ![Customer Pain Points](01_Market_Research/pain_points_chart.png)
+* **Key Pain Points:** Odor, skin darkness, and clothing stains.  
+  ![Customer Pain Points](pain_points_chart.png)
 
-* **Innovation Validation:** The ceramic applicator concept scored 3.98/5 in consumer interest.
-  ![Ceramic Applicator Rating](01_Market_Research/ceramic_rating_chart.png)
+* **Innovation Validation:** The ceramic applicator concept scored 3.98/5 in consumer interest.  
+  ![Ceramic Applicator Rating](ceramic_rating_chart.png)
+
+* **Go-To-Market Strategy:** Target audience preference for marketing channels.  
+  ![Marketing Channel](tiktok_marketing_chart.png)
 
 ---
 
 ### `📁 02_Strategic_Business_Modeling`
 Structured business frameworks to ensure a sustainable entry into the skincare market.
 
-* **Lean Canvas:** Strategic blueprint focusing on problem-solution fit and unfair advantage.
-  ![Lean Canvas](02_Strategic_Business_Modeling/Lean%20Canvas.jpg)
+* **Lean Canvas:** Strategic blueprint focusing on problem-solution fit and unfair advantage.  
+  ![Lean Canvas](Lean%20Canvas.jpg)
 
-* **Business Model Canvas (BMC):** Mapping our key partners, activities, and value streams.
-  ![Business Model Canvas](02_Strategic_Business_Modeling/BMC.jpg)
+* **Business Model Canvas (BMC):** Mapping our key partners, activities, and value streams.  
+  ![Business Model Canvas](BMC.jpg)
 
-* **Value Proposition Design:** Aligning our ceramic technology and natural extracts with consumer skincare desires.
-  ![Value Proposition Design](02_Strategic_Business_Modeling/Value%20Propositions.jpg)
+* **Value Proposition Design:** Aligning our ceramic technology and natural extracts with consumer skincare desires.  
+  ![Value Proposition Design](Value%20Propositions.jpg)
 
 ---
 
 ### `📁 03_Competitive_Analysis`
 Analyzing market positioning and competitive gaps.
 
-* **Positioning Map:** Pure Veil is positioned in the **"Natural & Innovative"** quadrant, distinguishing us from both synthetic-heavy mass brands and conventional natural brands.
-  ![Competitive Positioning](03_Competitive_Analysis/Positioning%20Map.png)
+* **Positioning Map:** Pure Veil is positioned in the **"Natural & Innovative"** quadrant.  
+  ![Competitive Positioning](Positioning%20Map.png)
 
-* **Competitor Matrix:** Direct comparison highlighting our competitive edge in ingredient transparency and application technology.
-  ![Competitor Analysis](03_Competitive_Analysis/Competitor%20Matrix.png)
+* **Competitor Matrix:** Direct comparison highlighting our competitive edge in ingredient quality and application technology.  
+  ![Competitor Analysis](Competitor%20Matrix.png)
 
 ---
 
 ### `📁 04_Financial_Planning`
 A detailed roadmap to profitability.
 
-* **Financial Summary:** Pricing at 290 THB/unit with a 74.8% gross margin, targeting an annual revenue of 4.35 million THB in Year 1.
-  ![Financial Summary](04_Financial_Planning/financial_summary.png)
+* **Financial Model:** Pricing at 290 THB/unit with a 74.8% gross margin, targeting an annual revenue of 4.35 million THB in Year 1.  
+  ![Financial Summary](financial_summary.png)
 
 ---
 
 ### `📁 05_Visual_Assets`
 Branding elements reflecting our concept of "Pure" (purity) and "Veil" (gentle protection).
 
-* **Brand Identity:** Logo design and mockup visuals.
-  ![Brand Logo](05_Visual_Assets/logo.png)
-  ![Product Mockup](05_Visual_Assets/model.jpg)
+* **Brand Logo:**  
+  ![Brand Logo](logo.png)
+
+* **Product Design & Mockup:**  
+  ![Product Mockup](model.jpg)
 
 ---
 
 ## 🎨 Product Visuals
 Product design highlighting the hygienic tube and ceramic applicator.
 
-![Pure Veil Product Mockup](05_Visual_Assets/product.png)
+![Pure Veil Product Mockup](product.png)
 
 ---
 
