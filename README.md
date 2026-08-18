@@ -1,7 +1,4 @@
-# 🍃 Pure Veil: Innovative Underarm Skincare Business Development
-
-**Author:** Sunita Thararom  
-**Background:** Digital Business and Information Systems, Mahasarakham University  
+# 🍃 Pure Veil: Innovative Underarm Skincare Business Development 
 **Target Industry:** Health, Wellness, and Skincare Innovation  
 
 ---
@@ -92,8 +89,8 @@ Here is a look at the product design, highlighting the hygienic tube and the med
 
 ## 🛠️ Tools & Methodologies Used
 * **Business Strategy:** Lean Canvas, Business Model Canvas, Competitor Analysis
-* **Data & Analytics:** Microsoft Excel (Power Query), Power BI
-* **AI & Automation:** Generative AI (Google Gemini)
+* **Data Collection:** Google Forms
+* **Presentation & Documentation:** Canva, Microsoft Word
 
 ---
 *Let's connect and discuss how data-driven business development can drive innovation in the skincare industry!*
