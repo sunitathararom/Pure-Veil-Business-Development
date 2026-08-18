@@ -1,6 +1,5 @@
 # 🍃 Pure Veil: Innovative Underarm Skincare Business Development
-
-**Author:** Sunita Thararom  
+  
 **Target Industry:** Health, Wellness, and Skincare Innovation  
 
 ---
