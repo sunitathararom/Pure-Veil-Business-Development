@@ -1,5 +1,5 @@
 # 🍃 Pure Veil: Innovative Underarm Skincare Business Development
-  
+
 **Target Industry:** Health, Wellness, and Skincare Innovation  
 
 ---
@@ -23,13 +23,13 @@ Our project moves beyond traditional deodorants by adopting a "Holistic Underarm
 Focuses on consumer behavior analysis. We identified that 73.2% of users are concerned about skin irritation from chemical deodorants, and 76.9% prefer TikTok for product discovery.
 
 * **Key Pain Points:** Odor, skin darkness, and clothing stains.  
-  ![Customer Pain Points](pain_points_chart.png)
+  <img src="pain_points_chart.png" width="600"/>
 
 * **Innovation Validation:** The ceramic applicator concept scored 3.98/5 in consumer interest.  
-  ![Ceramic Applicator Rating](ceramic_rating_chart.png)
+  <img src="ceramic_rating_chart.png" width="600"/>
 
 * **Go-To-Market Strategy:** Target audience preference for marketing channels.  
-  ![Marketing Channel](tiktok_marketing_chart.png)
+  <img src="tiktok_marketing_chart.png" width="600"/>
 
 ---
 
@@ -37,13 +37,13 @@ Focuses on consumer behavior analysis. We identified that 73.2% of users are con
 Structured business frameworks to ensure a sustainable entry into the skincare market.
 
 * **Lean Canvas:** Strategic blueprint focusing on problem-solution fit and unfair advantage.  
-  ![Lean Canvas](Lean%20Canvas.jpg)
+  <img src="Lean%20Canvas.png" width="600"/>
 
 * **Business Model Canvas (BMC):** Mapping our key partners, activities, and value streams.  
-  ![Business Model Canvas](BMC.jpg)
+  <img src="BMC.png" width="600"/>
 
 * **Value Proposition Design:** Aligning our ceramic technology and natural extracts with consumer skincare desires.  
-  ![Value Proposition Design](Value%20Propositions.jpg)
+  <img src="Value%20Propositions.jpg" width="600"/>
 
 ---
 
@@ -51,18 +51,18 @@ Structured business frameworks to ensure a sustainable entry into the skincare m
 Analyzing market positioning and competitive gaps.
 
 * **Positioning Map:** Pure Veil is positioned in the **"Natural & Innovative"** quadrant.  
-  ![Competitive Positioning](Positioning%20Map.png)
+  <img src="Positioning%20Map.png" width="600"/>
 
 * **Competitor Matrix:** Direct comparison highlighting our competitive edge in ingredient quality and application technology.  
-  ![Competitor Analysis](Competitor%20Matrix.png)
+  <img src="Competitor%20Matrix.png" width="600"/>
 
 ---
 
 ### `📁 04_Financial_Planning`
 A detailed roadmap to profitability.
 
-* **Financial Model:** Pricing at 290 THB/unit with a 74.8% gross margin, targeting an annual revenue of 4.35 million THB in Year 1.  
-  ![Financial Summary](financial_summary.png)
+* **Financial Model:** Pricing at 290 THB/unit with a 74.8% gross margin.  
+  <img src="financial_summary.png" width="600"/>
 
 ---
 
@@ -70,17 +70,17 @@ A detailed roadmap to profitability.
 Branding elements reflecting our concept of "Pure" (purity) and "Veil" (gentle protection).
 
 * **Brand Logo:**  
-  ![Brand Logo](logo.png)
+  <img src="logo.png" width="400"/>
 
 * **Product Design & Mockup:**  
-  ![Product Mockup](model.jpg)
+  <img src="model.jpg" width="400"/>
 
 ---
 
 ## 🎨 Product Visuals
 Product design highlighting the hygienic tube and ceramic applicator.
 
-![Pure Veil Product Mockup](product.png)
+<img src="product.png" width="400"/>
 
 ---
 
